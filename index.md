@@ -2,10 +2,9 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# What we do
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+The Sengupta lab looks at the integration of machine learning and statistical analyses on complex problems ranging from Prognostics of Large-Scale CPS to AI-assisted Healthcare Analytics that lie in the big data regime. 
 
 {%
   include link.html
